@@ -12,7 +12,6 @@ This project is a real-time intruder detection system designed to alert the prop
 - [Usage](#usage)
 - [Code](#code)
 - [Learning Outcomes](#learning-outcomes)
-- [Contributors](#contributors)
 
 ## Overview
 The Intruder Detector System is built to enhance security by automatically detecting any unauthorized entry attempts. When an intruder is detected, the system activates an alarm (buzzer) and turns on a light to alert the property owner. The detection system is displayed on an LCD screen, providing real-time feedback.
